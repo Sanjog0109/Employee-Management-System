@@ -1,7 +1,7 @@
 # Employee-Management-System
-A Java-based client-server desktop application for efficiently managing employee records with real-time communication and multithreaded operations. Built using Java Swing for GUI, JDBC for database interaction, and Sockets with multithreading for network-based functionality.
-🔧 Features
-Add Employee: Register new employees with details like name, position, salary, etc.
+A Java-based client-server desktop application for efficiently managing employee records with real-time communication and multithreaded operations. Built using **Java Swing** for GUI, **JDBC** for database interaction, and **Sockets with multithreading** for network-based functionality.
+🔧 **Features**
+•Add Employee: Register new employees with details like name, position, salary, etc.
 
 View Employees: Display a structured list of all registered employees.
 
