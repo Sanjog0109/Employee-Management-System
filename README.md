@@ -44,7 +44,8 @@ A Java-based client-server desktop application for efficiently managing employee
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shubh165/Employee-Management.git
+git clone https://github.com/Sanjog0109/Employee-Management-System.git
+
 ```
 
 2. **Open in your preferred Java IDE**  
@@ -95,17 +96,11 @@ We welcome contributions from the community!
 
 1. Fork the repository  
 2. Create a new branch  
-```bash
-git checkout -b feature-branch
-```
+```bash git checkout -b feature-branch ```
 3. Commit your changes  
-```bash
-git commit -m "Add new feature"
-```
+```bash git commit -m "Add new feature" ```
 4. Push to your branch  
-```bash
-git push origin feature-branch
-```
+```bash git push origin feature-branch```
 5. Open a Pull Request
 
 ---
@@ -114,4 +109,3 @@ git push origin feature-branch
 
 - Ensure the server is running before launching the client.
 - The application supports multiple clients simultaneously using multithreading.
-
